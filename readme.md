@@ -34,7 +34,3 @@ git add .
 git commit -m "alasan simpannya apa"
 ```
 
-Ini adalah tulisan tambahan
-
-blablablablabla
-apapun
