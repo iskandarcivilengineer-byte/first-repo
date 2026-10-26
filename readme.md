@@ -33,3 +33,7 @@ git add .
 # simpan
 git commit -m "alasan simpannya apa"
 ```
+
+Ini adalah tulisan tambahan
+
+blablablablabla
